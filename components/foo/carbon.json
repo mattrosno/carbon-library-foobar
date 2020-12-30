@@ -1,0 +1,8 @@
+{
+  "name": "Foo",
+  "description": "",
+  "type": "component",
+  "status": "beta",
+  "platform": "web",
+  "framework": "react"
+}
